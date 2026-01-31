@@ -1,0 +1,2 @@
+GitHub collaboration enables multiple developers to work on the same project efficiently.
+Team members can use forks, branches, pull requests, and code reviews to contribute and manage changes smoothly.
